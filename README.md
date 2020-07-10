@@ -1,4 +1,7 @@
-### Hi there 👋
+He works in different roles such as a software engineer, software architect, and consultant. He aims to provide sustainable user experiences by delivering robust, maintainable, reliable solutions, scaling, and cost-effective. He always enthusiastic about new technologies and keeps himself up-to-date with new technologies.
+
+He has TOGAF 9, CSM, and PMI-ACP certificates and also a software architect and agile coach who helps companies and organizations. 
+
 
 <!--
 **ibrahimatay/ibrahimatay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
