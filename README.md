@@ -9,12 +9,6 @@ He has TOGAF 9, KMP, CSM, and PMI-ACP certificates and also a software architect
 - Full Stack Development
 - DevOps Engineering
 
-
-- The Open Group Certified: TOGAF® 9 Certified
-- Kanban Management Professional (KMP)
-- PMI Agile Certified Practitioner (PMI-ACP)
-- Certified ScrumMaster (CSM)
-
 <!--
 **ibrahimatay/ibrahimatay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
