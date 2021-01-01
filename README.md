@@ -1,6 +1,6 @@
 # Hello!
 
-He works in different roles such as a software engineer, software architect, and consultant since 2011. His strongest skill is analytical thinking. He also has very strong problem solving and management skills.
+He works in different roles such as a software engineer, software architect, and consultant since 2011. He also has very strong analytical thinking, problem-solving, and management skills.
 
 He aims to provide sustainable user experiences by delivering robust, maintainable, reliable, scaling, and cost-effective solutions. He always enthusiastic about new technologies and keeps himself up-to-date with new technologies.
 
