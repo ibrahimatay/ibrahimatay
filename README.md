@@ -4,7 +4,7 @@ He works in different roles such as a software engineer, software architect, and
 
 He aims to provide sustainable user experiences by delivering robust, maintainable, reliable, scaling, and cost-effective solutions. He always enthusiastic about new technologies and keeps himself up-to-date with new technologies.
 
-He has TOGAF 9, PMI-ACP, CSM, and KMP certificates and also a software architect and agile coach who helps companies and organizations.
+He has TOGAF 9, ITIL, PMI-ACP, CSM, and KMP certificates and also a software architect and agile coach who helps companies and organizations.
 
 - Team Leadership
 - Technology Management
