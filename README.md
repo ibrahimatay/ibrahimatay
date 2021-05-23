@@ -4,12 +4,17 @@ He works in different roles such as a software engineer, team lead, and software
 
 He aims to provide sustainable user experiences by delivering robust, maintainable, reliable, scaling, and cost-effective solutions. He always enthusiastic about new technologies and keeps himself up-to-date with new technologies.
 
-He has TOGAF 9, ITIL, PMI-ACP, CSM, and KMP certificates and also a software architect and agile coach who helps companies and organizations.
+He is a software architect and agile coach who helps companies and organizations.
 
-- Team Leadership
-- Technology Management
-- Full Stack Development
-- DevOps Engineering
+- Oracle Certified Professional: Java SE 11 Developer
+- Certified Kubernetes Application Developer (CKAD)
+- Microsoft Certified Professional Developer (MCPD) 
+- Microsoft Certified Solution Developer (MCSD)
+- The Open Group Architecture Framework (TOGAF) Certified
+- ITIL Foundation
+- PMI Agile Certified Practitioner (PMI-ACP)
+- Certified Scrum Master (CSM)
+- Kanban Management Professional (KMP)
 
 <!--
 **ibrahimatay/ibrahimatay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
