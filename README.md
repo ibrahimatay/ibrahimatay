@@ -1,15 +1,17 @@
 # Hello!
 
-He works in different roles such as a software engineer, team lead, and software architect since 2011. He also has very strong analytical thinking, problem-solving, and management skills.
+He is experienced in architecting and developing. He enables companies to become delivering robust, maintainable, reliable, and scaling solutions by building Next Generation Technology Architectures.
 
-He aims to provide sustainable user experiences by delivering robust, maintainable, reliable, scaling, and cost-effective solutions. He always enthusiastic about new technologies and keeps himself up-to-date with new technologies.
+He is specialized in Application Development, Enterprise Architectures, ITSM, Cloud-Native Technologies, Integration Architecture, SOA, and Microservices Architecture.
 
-He is a software architect and agile coach who helps companies and organizations.
+He holds a Master’s degree in Engineering Management from Sakarya University. He has the following certificates.
 
-- Team Leadership
-- Technology Management
-- Full Stack Development
-- DevOps Engineering
+- The Open Group Architecture Framework (TOGAF) Certified
+- ITIL Foundation
+- PMI Agile Certified Practitioner (PMI-ACP)
+- Certified Scrum Master (CSM)
+- Kanban Management Professional (KMP)
+- Certified Kubernetes Application Developer (CKAD)
 
 <!--
 **ibrahimatay/ibrahimatay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
