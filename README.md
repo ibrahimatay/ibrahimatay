@@ -4,7 +4,9 @@ He is experienced in architecting and developing. He enables companies to use ro
 
 He is specialized in Application Development, Enterprise Architectures, Cloud-Native Technologies, Integration Architecture, SOA, and Microservices Architecture.
 
-He shares notes of experiences on [www.ibrahimatay.com](www.ibrahimatay.com)
+He shares notes of experiences on [www.ibrahimatay.com]
+
+[www.ibrahimatay.com]: https://www.ibrahimatay.com
 
 <!--
 **ibrahimatay/ibrahimatay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
