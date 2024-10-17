@@ -1,6 +1,6 @@
 # Hello!
 
-<img src="images/Compiler-Mountain-K2.PNG" height="396" width="868"/>
+<img src="images/Compiler-Mountain-K2.PNG" height="339" width="744"/>
 
 
 
