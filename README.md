@@ -1,5 +1,9 @@
 # Hello!
 
+<img src="images/Compiler-Mountain-K2.PNG" height="297" width="650"/>
+
+
+
 As an experienced architect and leader, he has a proven track record of helping companies implement next-generation technology architectures that are both robust and scalable. By building solutions that are designed for maintainability, reliability, and cost-effectiveness, he enables organizations to achieve their business goals and stay competitive in today's rapidly changing technological landscape.
 
 His leadership skills have been instrumental in guiding teams through complex projects, ensuring alignment with strategic objectives, fostering a culture of innovation and continuous improvement.
