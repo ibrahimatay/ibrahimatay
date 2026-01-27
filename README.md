@@ -2,9 +2,6 @@
 
 Software architect and engineering leader building scalable, secure platforms in complex, regulated environments. I champion AI-first software delivery and technical excellence while operating within TOGAF-aligned frameworks and Agile models. I stay hands-on with architecture, system design, and DevOps pipelines, leading teams from ambiguity to successful delivery. TOGAF Certified & Practitioner, PMI-ACP, CSM, KMP. Sharing insights on software architecture, AI-driven development, and engineering leadership.
 
-I share notes of experiences on [www.ibrahimatay.com]
-
-[www.ibrahimatay.com]: https://www.ibrahimatay.com
 
 <!--
 **ibrahimatay/ibrahimatay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
